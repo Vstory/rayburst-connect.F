@@ -58,7 +58,7 @@
     "@wxt-dev/module-vue": "^1.0.3",
     "eslint": "^10.1.0",
     "eslint-plugin-vue": "^10.8.0",
-    "happy-dom": "^20.8.9",
+    "happy-dom": "^21.0.4",
     "prettier": "^3.8.1",
     "tsx": "^4.22.4",
     "typescript": "^5.9.3",
